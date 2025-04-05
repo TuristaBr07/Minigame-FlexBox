@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    align-items: flex-start; 
+    border: 2px solid #000;
+    padding: 10px;
+    height: 300px;
+  }
+  
+  .container img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin: 5px;
+  }
+  
+  .cat {
+    align-self: flex-end;
+  }
+  
